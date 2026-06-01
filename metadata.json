@@ -1,0 +1,10 @@
+{
+  "name": "Córdoba Parking Optimizer",
+  "description": "Plataforma de optimización de parking urbano en tiempo real para Córdoba (playas privadas y naranjitas municipales).",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
